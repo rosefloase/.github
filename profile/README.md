@@ -2,7 +2,7 @@
 web and linux girl :3  
 i'm interested in places where artistry and compsci intersect! i'm obsessed with things like flash and webdev for this reason :o
 
-![self portrait](uggoscrop.png "ugly lesbo. yes i can say this i snog women")
+![self portrait](/profile/uggoscrop.png "ugly lesbo. yes i can say this i snog women")
 
 ## links
 ### [thepersonever](https://thepersonever.net/) (personal site) - [psfla](https://psfla.net) (mspa site)
@@ -28,4 +28,4 @@ i'm interested in places where artistry and compsci intersect! i'm obsessed with
 
 i'll make this look prettier later. maybe.
 
-![xenia head](xeniaiconcrop.png "awesome fox i drew one time")
+![xenia head](/profile/xeniaiconcrop.png "awesome fox i drew one time")
