@@ -17,6 +17,7 @@ i'm interested in places where artistry and compsci intersect! i'm obsessed with
 [tperesources](https://github.com/rosefloase/tperesources) - a github pages website made back when tpe was hosted on neocities w/o supporter  
 
 ### flashes/flas
+[tpemorerecode](https://github.com/rosefloase/tpemorerecode) - a flash to house a BILLION extra pages on my site
 [tpevault](https://github.com/rosefloase/tpevault) - a flash i made to celebrate the cut content of thepersonever! still regularly updated  
 [tpeintro](https://github.com/rosefloase/tpeintro) - the intro flash for my website  
 [jadethink](https://github.com/rosefloase/jadethink) - a flash that functions as a microblog  
