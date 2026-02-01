@@ -18,6 +18,7 @@ i'm interested in places where artistry and compsci intersect! i'm obsessed with
 
 ### flashes/flas
 [tpemorerewrite](https://github.com/rosefloase/tpemorerewrite) - a flash to house a BILLION extra pages on my site  
+[tpenavbar](https://github.com/rosefloase/tpenavbar) - a flash-based navbar in use on thepersonever ^_^  
 [tpevault](https://github.com/rosefloase/tpevault) - a flash i made to celebrate the cut content of thepersonever! still regularly updated  
 [tpeintro](https://github.com/rosefloase/tpeintro) - the intro flash for my website  
 [jadethink](https://github.com/rosefloase/jadethink) - a flash that functions as a microblog  
