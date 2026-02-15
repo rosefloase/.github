@@ -13,6 +13,7 @@ i'm interested in places where artistry and compsci intersect! i'm obsessed with
 ### sites
 [thepersonever](https://github.com/rosefloase/thepersonever)  
 [psfla](https://github.com/psfla/11tyserver)  
+[tpeblog](https://github.com/rosefloase/tpeblog) - a blog site made in 11ty to save my ass from the horrors of NOT BEING INDEXED ON DUCK. DUCK. GO.  
 [tpechoose](https://github.com/rosefloase/tpe-choose) - a site made before [nekoweb](https://nekoweb.org/) allowed multiple sites to have different siteboxes  
 [tperesources](https://github.com/rosefloase/tperesources) - a github pages website made back when tpe was hosted on neocities w/o supporter  
 
